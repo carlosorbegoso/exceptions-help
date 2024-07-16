@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: practice-exceptions
+
+example:
+  exception:
+    debug: true
